@@ -1,0 +1,28 @@
+.container{
+    width:400px;
+}
+
+.namebox{
+    text-align: left;
+    margin-top: 30px;
+}
+
+.name{
+    font-size: 14px;
+}
+
+.flexbox{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.pay{
+    color:rgb(243, 82, 109);
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.btn{
+    margin-top: 20px;
+}
